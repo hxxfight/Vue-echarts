@@ -54,7 +54,7 @@ $ npm run serve
 
 默认主题：亮白
 
-![](images\默认主题：亮白.png)
+<img src=images\默认主题：亮白.png>
 
 更换主题：黑夜
 
