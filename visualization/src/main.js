@@ -13,7 +13,7 @@ SocketService.Instance.connect()
 // 其他的组件  this.$socket
 Vue.prototype.$socket = SocketService.Instance
 // 请求基准路径的配置
-axios.defaults.baseURL = 'http://127.0.0.1:8888/api/'
+axios.defaults.baseURL = 'http://127.0.0.1:8889/api/'
 // 将axios挂载到Vue的原型对象上
 // 在别的组件中 this.$http
 Vue.prototype.$http = axios

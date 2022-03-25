@@ -32,6 +32,8 @@ export default class SocketService {
       return console.log('您的浏览器不支持WebSocket')
     }
     this.ws = new WebSocket('ws://localhost:9998')
+    // this.ws = new WebSocket('ws://localhost:9998')
+
 
     // 连接成功的事件
     this.ws.onopen = () => {
