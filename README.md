@@ -63,8 +63,10 @@ $ npm run serve
 单个图表全屏显示
 <img src=images\单个图表全屏显示.png>
 
+
 切换省份地图显示
 <img src=images\省份地图显示.png>
+
 
 后端发送数据的提示效果
 <img src=images\后端.png>
